@@ -1,4 +1,4 @@
-package Linked_链表.快乐数;
+package hash_table_哈希表.快乐数;
 
 import java.util.HashSet;
 import java.util.Set;
