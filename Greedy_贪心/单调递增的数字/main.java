@@ -6,7 +6,7 @@ package Greedy_贪心.单调递增的数字;
  * @author: 炸薯条
  * Date: 2023/5/22
  * Time: 5:43
- * Description: No Description
+ * Description: https://leetcode.cn/problems/partition-labels/
  */
 public class main {
     // 解法一
