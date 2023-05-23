@@ -6,7 +6,7 @@ package DynamicProgramming_动态规划.使用最小花费爬楼梯;
  * @author: 炸薯条
  * Date: 2023/5/24
  * Time: 5:34
- * Description: No Description
+ * Description: https://leetcode.cn/problems/min-cost-climbing-stairs/
  */
 public class main {
     public int minCostClimbingStairs(int[] cost) {
